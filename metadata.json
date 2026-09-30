@@ -1,0 +1,6 @@
+{
+  "name": "SwasthyaSathi AI",
+  "description": "Rural health-centre management prototype helping healthcare workers manage patient follow-ups, child health, medicine inventory, and daily administrative tasks with AI assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
